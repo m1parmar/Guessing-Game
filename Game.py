@@ -40,7 +40,7 @@ def playRound(roundNumber): #playRound function
 
 
 if __name__ == '__main__':
-    name = input("Lets Introduce ourselves. My name is Mahit, the number guessing guru and you are? \n ")
+    name = input("Lets Introduce ourselves. My name is Gerald, the number guessing guru and you are? \n ")
     # asks the user for their name
     start = input("Hello, {}, nice to meet you. I want you to try to guess my number. Enter y to start playing! \n".format(name))
     # user enters keyword, 'y', to start the game
